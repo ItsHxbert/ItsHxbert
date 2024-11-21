@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsHxbert
 - 👀 I’m interested in everything haha
-- 🌱 I’m currently learning javascript and mastering python
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me discord - RajF_
 - ⚡ Fun fact: I ride 2013 Yamaha YZ 250F
